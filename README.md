@@ -5,8 +5,13 @@ and specifically the rak nrf 0.21.20 board version and of course all the appropr
 
 Board Libraries for Rak and Adafruit NRF (New BSP LIBS) 
 
+
 https://raw.githubusercontent.com/RAKwireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless_index.json
+
+
 https://raw.githubusercontent.com/RAKwireless/RAKwireless-Arduino-BSP-Index/main/package_rakwireless.com_rui_index.json
+
+
 https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
 
 # https://forum.rakwireless.com/t/just-updated-nrf-boards-for-rak-4631-broke-my-code/5189/2
