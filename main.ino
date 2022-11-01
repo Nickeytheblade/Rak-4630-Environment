@@ -36,7 +36,7 @@ bool doOTAA = true;   // OTAA is used by default.
 #define LORAWAN_TX_POWER TX_POWER_0							/*LoRaMac tx power definition, from TX_POWER_0 to TX_POWER_15*/
 #define JOINREQ_NBTRIALS 5										  /**< Number of trials for the join request. */
 DeviceClass_t g_CurrentClass = CLASS_A;					/* class definition*/
-LoRaMacRegion_t g_CurrentRegion = LORAMAC_REGION_EU868;    /* Region:EU868*/
+LoRaMacRegion_t g_CurrentRegion = LORAMAC_REGION_US915;    /* Region:EU868*/
 lmh_confirm g_CurrentConfirm = LMH_UNCONFIRMED_MSG;				  /* confirm/unconfirm packet definition*/
 uint8_t gAppPort = LORAWAN_APP_PORT;							        /* data port*/
 
